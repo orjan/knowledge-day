@@ -1,1 +1,13 @@
-["index.md"]
+[
+    "index.md",
+    "knowledge-days.md",
+    [
+    	"oss-and-peer-reviews.md", 
+    	"purpose-oss.md",
+    	"purpose-review.md",
+    	"goals.md"
+    ],
+    "schedule.md",
+    "rules.md",
+    "your-day.md"
+]
