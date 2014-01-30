@@ -2,6 +2,7 @@
   "name": "oss-and-peer-reviews-knowledge-day-2014",
   "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "~2.6.1"
+    "reveal.js": "~2.6.1",
+	"tretton37-reveal": "orjan/tretton37-reveal"
   }
 }
