@@ -11,7 +11,8 @@
 - 13:45 - 13:50  »  Instructions for the afternoon 
 - 13:50 - 16:00  »  Contribute 
 - 16:00 - 17:00  »  Peer reviews 
-- 17:00 - 00:00  »  Summation / 4 years champagne 
+- 17:00 - 17:15  »  Something Awesome! 
+- 17:15 - 00:00  »  Pizza and nBeer
 
 
 
